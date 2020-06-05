@@ -4,7 +4,7 @@
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/motd.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,17 +21,18 @@
   <component name="ProjectId" id="1XCbEqrQQkAVok2pP2AlUVriglA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../assigment/crossover" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awx-11.2.0" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,20 +45,24 @@
       <recent name="D:\crunchydevops\ansible\ansible-examples" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="" />
+      <created>1591263281450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591263281450</updated>
+      <workItem from="1591263282656" duration="10051000" />
+      <workItem from="1591279007049" duration="579000" />
+      <workItem from="1591281825630" duration="8591000" />
+    </task>
+    <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -69,6 +74,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified alpine container" />
@@ -81,28 +87,20 @@
     <state x="2118" y="0" key="#Deployment" timestamp="1587820575972">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="-1200" y="0" key="#Deployment/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1580893226880" />
-    <state x="226" y="0" key="#Deployment/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1580906579073" />
     <state x="2118" y="0" key="#Deployment/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587820575972" />
     <state x="2693" y="186" key="CommitChangelistDialog2" timestamp="1587826622061">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1580888450147" />
-    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1581078361983" />
     <state x="2693" y="186" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587826622061" />
-    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580711050493" />
-    <state x="2488" y="171" key="FileChooserDialogImpl" timestamp="1587879212736">
-      <screen x="1920" y="0" width="1680" height="1010" />
+    <state x="-1273" y="1039" key="FileChooserDialogImpl" timestamp="1591347791418">
+      <screen x="-1922" y="863" width="1920" height="1040" />
     </state>
-    <state x="-900" y="123" key="FileChooserDialogImpl/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1580898344714" />
-    <state x="649" y="176" key="FileChooserDialogImpl/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1580906713577" />
+    <state x="-1273" y="1039" key="FileChooserDialogImpl/-1920.-217.1920.1040/0.0.1920.1040/1920.0.1920.1040/1467.-768.1024.728/-1922.863.1920.1040@-1922.863.1920.1040" timestamp="1591347791418" />
+    <state x="-1273" y="1039" key="FileChooserDialogImpl/-1920.-217.1920.1040/0.0.1920.1040/1920.26.1920.1040/1467.-768.1024.728/-1922.863.1920.1040@-1922.863.1920.1040" timestamp="1591278857252" />
     <state x="2488" y="171" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587879212736" />
     <state x="2403" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587826633871">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1580888452850" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1581078427937" />
     <state x="2403" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587826633871" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580711055497" />
   </component>
 </project>

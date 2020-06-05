@@ -1,5 +1,4 @@
 # Installation du bac a sable ansible-examples
-
 ## Mise en place des containers et du fichier inventory  
 Demarrer des containers pour simuler plusieurs machines.    
 ```shell script
@@ -66,6 +65,7 @@ et faire la commande Ansible Ad-Hoc
 Faire ensuite  les Ad-Hoc commandes suivantes:  
 ``` code 
 ansible centos -m yum -a "name=elinks state=latest" -i ../inventory
+ansible centos-remote -b -m yum -a "name=elinks state=latest" -i ../inventory
 ansible centos -b -m yum -a "name=elinks state=latest" -i ../inventory
 ansible centos --list-hosts -i ../inventory
 ansible all -m setup -a "filter=ansible_default_ipv4"  -i ../inventory

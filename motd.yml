@@ -1,6 +1,6 @@
 ---
 - name: Create MOTD file
-  hosts: all
+  hosts: centos_remote_a
   become: true
   vars:
       text_message: " Ansible @ SIGI"
