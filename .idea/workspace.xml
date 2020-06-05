@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="modificatio all to centos_remote_a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/motd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/motd.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +75,16 @@
       <updated>1591263281450</updated>
       <workItem from="1591263282656" duration="10051000" />
       <workItem from="1591279007049" duration="579000" />
-      <workItem from="1591281825630" duration="8591000" />
+      <workItem from="1591281825630" duration="9197000" />
     </task>
+    <task id="LOCAL-00001" summary="modificatio all to centos_remote_a">
+      <created>1591358888640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591358888640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +107,8 @@
     <MESSAGE value="modified alpine container using port 22" />
     <MESSAGE value="Added propagate ssh using delagate_to" />
     <MESSAGE value="Added propagate ssh using delegate_to" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added propagate ssh using delegate_to" />
+    <MESSAGE value="modificatio all to centos_remote_a" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificatio all to centos_remote_a" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2118" y="0" key="#Deployment" timestamp="1587820575972">
@@ -98,9 +125,10 @@
     <state x="-1273" y="1039" key="FileChooserDialogImpl/-1920.-217.1920.1040/0.0.1920.1040/1920.0.1920.1040/1467.-768.1024.728/-1922.863.1920.1040@-1922.863.1920.1040" timestamp="1591347791418" />
     <state x="-1273" y="1039" key="FileChooserDialogImpl/-1920.-217.1920.1040/0.0.1920.1040/1920.26.1920.1040/1467.-768.1024.728/-1922.863.1920.1040@-1922.863.1920.1040" timestamp="1591278857252" />
     <state x="2488" y="171" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587879212736" />
-    <state x="2403" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587826633871">
-      <screen x="1920" y="0" width="1680" height="1010" />
+    <state x="-1370" y="1120" key="Vcs.Push.Dialog.v2" timestamp="1591358893840">
+      <screen x="-1922" y="863" width="1920" height="1040" />
     </state>
+    <state x="-1370" y="1120" key="Vcs.Push.Dialog.v2/-1920.-217.1920.1040/0.0.1920.1040/1920.0.1920.1040/1467.-768.1024.728/-1922.863.1920.1040@-1922.863.1920.1040" timestamp="1591358893840" />
     <state x="2403" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587826633871" />
   </component>
 </project>
